@@ -1,15 +1,14 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
+title: About
+icon: fas fa-info
 order: 4
+# The About page
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+I'm a security researcher and a Computer Science student at Purdue University. Idk I'll write more stuff here later, I do RE, I do industrial research, and I write code. 
 
-## I am God or smth
+## Research
+## Competitions
+## Projects
 
-### Words
-
-
-### More words
+Also im god or smth
